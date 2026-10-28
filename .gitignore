@@ -1,0 +1,10 @@
+/estadisticas
+/histograma
+/productores_consumidores
+/tmp/
+__pycache__/
+*.zip
+*.aux
+*.log
+*.out
+*.toc
